@@ -1,0 +1,159 @@
+बढ़िया Parth। नीचे Part 1 - index.html की शुरुआत दे रहा हूँ।
+इस फाइल का नाम index.html रखें।
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Parth Patel | Civil Site Engineer</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+
+<h1>Parth Patel</h1>
+
+<p>Civil Site Engineer | Project Coordinator</p>
+
+<a href="tel:+918000444184" class="btn">Call Now</a>
+
+<a href="https://wa.me/918000444184" class="btn">WhatsApp</a>
+
+</header>
+
+<section class="about">
+
+<h2>About Me</h2>
+
+<p>
+
+Experienced Civil Site Engineer specializing in commercial projects, quality control, safety management, contractor coordination and project execution.
+
+</p>
+
+</section>
+
+<section class="skills">
+
+<h2>Skills</h2>
+
+<ul>
+
+<li>Site Execution</li>
+
+<li>Quality Control</li>
+
+<li>Safety Management</li>
+
+<li>Project Coordination</li>
+
+<li>BOQ</li>
+
+<li>AutoCAD</li>
+
+<li>MS Excel</li>
+
+</ul>
+
+</section>
+
+<section class="projects">
+
+<h2>Projects</h2>
+
+<p>Commercial Mall Interior Project</p>
+
+</section>
+यह सिर्फ Part 1 है।
+इसके बाद मैं Part 2 दूँगा, जिसमें:
+आपकी फोटो
+Gallery
+Contact Form
+Footer
+बाकी वेबसाइट का HTML पूरा होगा।
+फिर style.css और script.js देंगे ताकि वेबसाइट पूरी तरह प्रोफेशनल दिखे।बढ़िया Parth। नीचे Part 1 - index.html की शुरुआत दे रहा हूँ।
+इस फाइल का नाम index.html रखें।
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Parth Patel | Civil Site Engineer</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+
+<h1>Parth Patel</h1>
+
+<p>Civil Site Engineer | Project Coordinator</p>
+
+<a href="tel:+918000444184" class="btn">Call Now</a>
+
+<a href="https://wa.me/918000444184" class="btn">WhatsApp</a>
+
+</header>
+
+<section class="about">
+
+<h2>About Me</h2>
+
+<p>
+
+Experienced Civil Site Engineer specializing in commercial projects, quality control, safety management, contractor coordination and project execution.
+
+</p>
+
+</section>
+
+<section class="skills">
+
+<h2>Skills</h2>
+
+<ul>
+
+<li>Site Execution</li>
+
+<li>Quality Control</li>
+
+<li>Safety Management</li>
+
+<li>Project Coordination</li>
+
+<li>BOQ</li>
+
+<li>AutoCAD</li>
+
+<li>MS Excel</li>
+
+</ul>
+
+</section>
+
+<section class="projects">
+
+<h2>Projects</h2>
+
+<p>Commercial Mall Interior Project</p>
+
+</section>
+यह सिर्फ Part 1 है।
+इसके बाद मैं Part 2 दूँगा, जिसमें:
+आपकी फोटो
+Gallery
+Contact Form
+Footer
+बाकी वेबसाइट का HTML पूरा होगा।
+फिर style.css और script.js देंगे ताकि वेबसाइट पूरी तरह प्रोफेशनल दिखे।
